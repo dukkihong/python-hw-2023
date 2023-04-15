@@ -13,23 +13,3 @@ for c in range(6,7):
         print(f'{c+2} * {d} = {(c+2)*d:2}',end='    ')
         print(f'{c+3} * {d} = {(c+3)*d:2}',end='    ')
         print()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
